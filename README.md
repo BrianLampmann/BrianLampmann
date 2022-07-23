@@ -1,4 +1,4 @@
-## Olá! Eu sou o Brian Lampmann, estudante de programação 👨‍💻
+## Olá! Eu sou Brian Lampmann, estudante de programação 👨‍💻
 
 - 🎓 Estou trabalhando em projetos front-end e back-end
 - 📚 Estudando JavaScript
