@@ -1,8 +1,9 @@
 ## Olá! Eu sou Brian Lampmann, estudante de programação 👨‍💻
 
 - 🎓 Estou trabalhando em projetos front-end e back-end
-- 📚 Estudando JavaScript
+- ✔  Estudando sempre para ser um desenvolvedor melhor!
 - 📍 Sertão Santana - RS
+
 
 <div align="center">
   <a href="https://github.com/brianlampmann">
