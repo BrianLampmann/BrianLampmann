@@ -19,7 +19,7 @@
   <img align="center" alt="Brian-Arduino" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Brian-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Brian-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Brian-pic" height="170" 
+  <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" 
   src="https://i.pinimg.com/564x/7a/1c/0f/7a1c0f2bb5f13ed212133eb7b754b88b.jpg">
 </div>
   
