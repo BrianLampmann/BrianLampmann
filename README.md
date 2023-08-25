@@ -1,5 +1,6 @@
 ## Olá! Eu sou Brian Lampmann, estudante de programação 👨‍💻
 
+- Cursando Análise e Desenvolvimento de Sistemas na IFSUL (Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense) polo Camaquã - RS
 - 🎓 Estou trabalhando em projetos front-end e back-end
 - ✔  Estudando sempre para ser um desenvolvedor melhor!
 - 📍 Sertão Santana - RS
