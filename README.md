@@ -25,8 +25,7 @@
   src="https://i.pinimg.com/564x/7a/1c/0f/7a1c0f2bb5f13ed212133eb7b754b88b.jpg">
 </div>
   
-  ##
-  ![Snake animation](https://github.com/BrianLampmann/BrianLampmann/blob/output/github-contribution-grid-snake.svg)
+  
  
 <div> 
   
@@ -35,3 +34,4 @@
   <a href="https://www.linkedin.com/in/brianlampmann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33px" target="_blank"></a> 
  
 </div>
+![Snake animation](https://github.com/BrianLampmann/BrianLampmann/blob/output/github-contribution-grid-snake.svg)
