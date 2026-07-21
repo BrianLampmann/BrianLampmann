@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Brian Lampmann
 
-💻 Assistente de Suporte a Sistemas | Sustentação de Sistemas | Automação | APIs
+Assistente de Suporte a Sistemas | Sustentação de Sistemas | Automação | APIs
 
 Atualmente atuo no Grupo Lins Ferrão, trabalhando com sustentação de sistemas, integrações, ERP, e-commerce, monitoramento e automação de processos.
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSul
+Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSul
 
-## 🚀 Atualmente
+## Atualmente
 
 - 🔹 Sustentação de sistemas corporativos
 - 🔹 APIs REST e integrações
@@ -15,18 +15,6 @@ Atualmente atuo no Grupo Lins Ferrão, trabalhando com sustentação de sistemas
 - 🔹 Python para automações
 - 🔹 Estudando Inteligência Artificial e LLMs
 - 🔹 Desenvolvendo o projeto YODA (Sistema de Gestão Financeira)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=brianlampmann&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlampmann&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -40,20 +28,12 @@ Atualmente atuo no Grupo Lins Ferrão, trabalhando com sustentação de sistemas
 
 ---
 
-## 📂 Projetos em destaque
 
-- 💰 **YODA** — Sistema de gerenciamento financeiro utilizando Flutter + FastAPI + PostgreSQL
-- 🤖 Agentes de IA para atendimento com Zendesk
-- 🔗 APIs REST e automações
-- 📊 Projetos acadêmicos e experimentos
-
----
-
-## 📫 Contato
+## Contato
 
 <p align="left">
 
-<a href="mailto:lampmannbrian@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lampmannbrian@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
